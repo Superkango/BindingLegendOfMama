@@ -1,0 +1,23 @@
+Muy buenas Javi, 
+
+
+aquí está el juego. Por desgracia no está nada terminado pero es que la verdad estaba algo animado haciendolo porque no me estaba quedano mal pero por desgracia
+he caido un poco y no tengo fuerzas para hacer más... Te explico un poco lo que he hecho y te lo dejo así, intentaré terminarlo algún día.
+
+
+El mapa y los assets me lo he descargado de la Store y al menos la base del mapa lo he hecho con el Tilemap y lo demás que está por ahí son prefabs que iba a poner con 
+los ejercicios que tienes en tu página del RogueLike a lo random, tengo el Script hecho y no me ha funcionado, lo iba a dejar para más tarde.
+
+Luego el personaje le he hecho los movimientos a mano con Script y con el animator y si le das al SPACE tiene la animación de ataque que tambien se lo iba a emplementar más adelante.
+
+
+Luego de las últimas mecánicas quería hacer alguna más... Tengo un Raycast hecho al enemigo para hacer que cuando te vea en un radio se te acercara aunque me ha dado fallos y solo
+se acerca en el principio, también lo pensaba cambiar pero bueno, y una moneda que te da puntos que no se va porque no está terminado... Mi idea era hacer un juego RogueLike en que 
+tuvieras una mazmorra aleatoria en cada nivel y tuvieras que ir subiendo para conseguir más puntuación.
+
+Como te digo estaba ilusionado y quería terminartelo al menos para un nivel bien pero me han dado unas noticias hoy no muy buenas y con la falta de animos que estoy se me han quitado
+las ganas... Te lo digo porque como ya te comenté no quiero que suene a escusa si no al contrario, si me tienes que suspender estas en todo tu derecho Javi y de ahí espero tomarme las cosas
+con más calma.
+
+
+Lo dicho, un saludo. Feliz verano y lo siento. Espero verte el año que viene por la escuela y poder saludarte a ti y a mis compañeros.
